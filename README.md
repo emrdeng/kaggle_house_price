@@ -17,6 +17,8 @@ There has been over 24,000+ entries into this competition since it started and a
 Note that I was #2,945 on the public leaderboard on the day of my first-ever submission (I will posts future branches as I continue to improve on this!):
 ![image](https://github.com/emrdeng/kaggle_house_price/assets/129260955/c5514f2a-fd9a-4f14-9391-829717e09280)
 
+NOTE that the public leaderboard is a rolling 2 month leaderboard. Submissions older than this are removed. So if the leaderboard is checked 2 months after my submission date of 6/29/2023, my submission will likely have disappeared and gone with the wind.
+
 # About the Project
 
 - I used Jupyter Notebooks to store all my Python code, analyses, etc.
